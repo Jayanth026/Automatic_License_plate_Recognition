@@ -1,1 +1,2 @@
-# Automatic_License_plate_Recognition
+# Automatic_NumberPlate_Recognition
+This Repo is created for our final year project
